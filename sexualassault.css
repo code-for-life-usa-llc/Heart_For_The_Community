@@ -17,9 +17,10 @@ li a {
     text-decoration: none;
 }
 li a:hover {
-    background-color: black;
+    background-color: #886D56;
 }
 body {
     background-color: #E8E2D9;
     font-family: monospace;
+
 }
