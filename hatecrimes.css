@@ -24,6 +24,6 @@ body {
     font-family: monospace;
 }
 img {
-    border-style: inset;
-    border-width: medium;
+    border-style: solid;
+    border-color: black;
 }

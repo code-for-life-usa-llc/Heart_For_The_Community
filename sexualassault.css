@@ -24,3 +24,7 @@ body {
     font-family: monospace;
 
 }
+img {
+    border-style: solid;
+    border-color: black;
+}
