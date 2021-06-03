@@ -20,10 +20,14 @@ li a:hover {
     background-color: #886D56;
 }
 body {
-    background-image: url(unitedagainsthate.png);
+    background-image: url(hate\ crimes.jpeg);
+    background-size: contain;
     font-family: monospace;
 }
 img {
     border-style: solid;
     border-color: black;
+}
+p {
+    color: lightslategray;
 }
