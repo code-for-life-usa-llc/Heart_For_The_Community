@@ -20,7 +20,7 @@ li a:hover {
     background-color: #886D56;
 }
 body {
-    background-color: #E8E2D9;
+    background-image: url(not/good.jpg);
     font-family: monospace;
 
 }
@@ -28,3 +28,4 @@ img {
     border-style: solid;
     border-color: black;
 }
+ 
