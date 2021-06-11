@@ -23,6 +23,7 @@ body {
     background-image: url(animal\ abuse.jpg);
     background-size: contain;
     font-family: monospace;
+    font-size: 23;
 }
 img {
     border-style: solid;

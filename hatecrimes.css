@@ -23,14 +23,15 @@ body {
     background-image: url(hate\ crimes.jpeg);
     background-size: contain;
     font-family: monospace;
+    font-size: 23
 }
 img {
     border-style: solid;
-    border-color: black;
+    border-color: rgb(207, 18, 207);
 }
 p {
-    color:#72a9b4;
+    color:#001aff; background-color: whitesmoke;
 }
 h2 {
-    color: aqua;
+    color: rgb(199, 36, 172);
 }
