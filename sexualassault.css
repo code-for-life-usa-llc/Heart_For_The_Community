@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #A79076;
+    background-color: #568088;
     font-family: monospace;
 }
 li {
@@ -17,10 +17,11 @@ li a {
     text-decoration: none;
 }
 li a:hover {
-    background-color: #886D56;
+    background-color: #3c5d64;
 }
 body {
-    background-image: url(not/good.jpg);
+    background-image: url(sexualassault2.jpeg);
+    background-size: contain;
     font-family: monospace;
     font-size: 23;
 }
@@ -28,4 +29,8 @@ img {
     border-style: solid;
     border-color: black;
 }
+p{
+    background-color: #2d54a8;
+}
+
  

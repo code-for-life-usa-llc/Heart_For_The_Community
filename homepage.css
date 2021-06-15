@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #A79076;
+    background-color: #568088;
     font-family: monospace;
 }
 li {
@@ -17,10 +17,17 @@ li a {
     text-decoration: none;
 }
 li a:hover {
-    background-color: #886D56;
+    background-color: #3c5d64;
 }
 body {
-    background-color: #E8E2D9;
+    background-image: url(unitedagainsthate.png);
+    background-size: cover;
     font-family: monospace;
     font-size: 23;
+}
+h2 {
+    background-color: aliceblue;
+}
+p {
+    background-color: aliceblue;
 }
