@@ -30,7 +30,8 @@ img {
     border-color: black;
 }
 p {
-    color: #cc9900
+    color: #cc9900;
+    background-color: #CDCDCD;
 }
 h1 {
     color: #997300;
